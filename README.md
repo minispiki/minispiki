@@ -17,7 +17,7 @@ mmmmm  mmm    m mm   mmm     mmm   mmmm   mmm    #   m  mmm
 *I do something, mostly questionable*
 [**HOMEPAGE**](https://minispiki.github.io)
 
-I'm currently learning html with [freecodecamp.org](freecodecamp.org)
+I'm currently learning html with [freecodecamp.org](https://freecodecamp.org)
 [*minispiki/html*](https://github.com/minispiki/html)
 
 ### 🧰 What i use
