@@ -17,8 +17,8 @@ mmmmm  mmm    m mm   mmm     mmm   mmmm   mmm    #   m  mmm
 *I do something, mostly questionable*
 [**HOMEPAGE**](https://minispiki.github.io)
 
-I'm currently learning c++ with a book
-[*minispiki/c-plus-plus*](https://github.com/minispiki/c-plus-plus)
+I'm currently learning html with [freecodecamp.org](freecodecamp.org)
+[*minispiki/html*](https://github.com/minispiki/html)
 
 ### 🧰 What i use
 * Debian 🖥️
