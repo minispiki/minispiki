@@ -21,7 +21,7 @@ I'm currently learning html with [freecodecamp.org](https://freecodecamp.org)
 [*minispiki/html*](https://github.com/minispiki/html)
 
 ### 🧰 What i use
-* Debian 🖥️
-* Xfce 🏞️
-* Zed 📜
+* NIX os 🖥️
+* Kde 🏞️
+* ~Zed~ 📜
 * Vim (which i suck at) 📜
